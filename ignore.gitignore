@@ -1,0 +1,13 @@
+# Dependencias y compilados
+node_modules/
+target/
+bin/
+*.class
+
+# Configuraciones de IDE
+.vscode/
+.idea/
+*.iml
+
+# Otros
+.DS_Store
