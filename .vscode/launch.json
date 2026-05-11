@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-InnovatechAnaliticaApplication<innovatechAnalitica>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.Analitica.innovatechAnalitica.InnovatechAnaliticaApplication",
+            "projectName": "innovatechAnalitica",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
