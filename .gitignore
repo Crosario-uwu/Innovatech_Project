@@ -1,6 +1,21 @@
+<<<<<<< HEAD
+=======
+# Dependencias y compilados
+>>>>>>> 0353ad98cb13acacd0a7af146f3e19bdac2eea54
 node_modules/
 target/
 bin/
 *.class
+<<<<<<< HEAD
 .vscode/
 .idea/
+=======
+
+# Configuraciones de IDE
+.vscode/
+.idea/
+*.iml
+
+# Otros
+.DS_Store
+>>>>>>> 0353ad98cb13acacd0a7af146f3e19bdac2eea54
